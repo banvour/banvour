@@ -1,0 +1,4 @@
+- 👋 hi, I’m @banvour
+- 🌱 i’m currently learning the basics & java
+- 📫 reach me at majaboettcher(a)mailbox.org
+- 🗂️ my first website (only nice on mobile yet) for my art https://banvour.com
